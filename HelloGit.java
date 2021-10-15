@@ -3,5 +3,6 @@ public class Hello.java{
 	System.out.println(" Welcome to version control system with Git");
     System.out.println(" Author : Linus Torvald");
 	System.out.println(" Year : 2005");
+	System.out.println(" License :GPL2");
 	}
 }
